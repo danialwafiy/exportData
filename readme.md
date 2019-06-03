@@ -1,6 +1,6 @@
 ## About exportDATA
 
-exportDATA is just a simple website that allows users to export data to Microsoft Excel.
+exportDATA is just a simple website that allows users to add data on the website and export them to Microsoft Excel.
 
 ## Modules
 
