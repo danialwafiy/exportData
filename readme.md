@@ -12,6 +12,13 @@ exportDATA is just a simple website that allows users to add data on the website
 - Frontend : Vue.JS
 - Backend : Laravel
 
+## Screenshot
+
+<img src="public/img/1.JPG" width="500" height="auto">
+<img src="public/img/2.JPG" width="500" height="auto">
+
+
+
 
 
 
