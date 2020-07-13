@@ -1,0 +1,23 @@
+name: Laravel
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  laravel-build:
+    name: Building laravel
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build vendor
+      run: composer install
+    - name: Build module
+      run: npm install
+    - name: Clear cache
+      run: php artisan cache:clear
+    - name: Build prod
+      run: npm run prod
