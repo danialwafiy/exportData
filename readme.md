@@ -15,9 +15,7 @@ exportDATA is a simple web app that allows users to add data on the website and 
 ## Screenshot
 
 <p>
-<img src="public/img/1.JPG" width="400" height="auto">
-    &nbsp  &nbsp  &nbsp  &nbsp
-<img src="public/img/2.JPG" width="400" height="auto">
+<img src="public/img/exportdata.png" width="400" height="auto">
 </p>
 
 
